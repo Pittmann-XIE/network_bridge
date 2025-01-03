@@ -55,3 +55,8 @@ CATKIN_IGNORE
 
 # Vscode
 .vscode/
+
+# build and install
+build/
+install/
+log/
